@@ -1,7 +1,7 @@
 [![MasterHead](https://media.istockphoto.com/id/953499010/photo/blockchain-technology-structure-defocused.jpg?s=612x612&w=0&k=20&c=9MNfdA5pbBhtHm6t6mmQ206CJx1MxzF3Th8NN_EAJTU=)
 <h1 align="center">Hi 👋, I'm Ferdi Yalçın
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.realdolmen.com/sites/default/files/blog/BlockChain-Animated-Proof.gif)")
+<img align="right" alt="Coding" width="400" src="https://www.realdolmen.com/sites/default/files/blog/BlockChain-Animated-Proof.gif>
   
 - 💬 Ask me about **Web3 dApp,Blockchain**
 
