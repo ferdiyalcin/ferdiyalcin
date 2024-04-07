@@ -16,6 +16,7 @@ Although I studied **C#** in high school, I focused on languages like **JavaScri
 
 </div>
 Regarding nodes, although I participated in the testnet programs of the projects, I was not able to install nodes for a while due to lack of resources. However, in the meantime, I did my best to help the community. <br>
+
 Now, I have successfully installed the nodes of several projects that gave me the opportunity. I prefer **Hetzner** as a server provider.
 
 
