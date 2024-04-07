@@ -25,7 +25,6 @@ Now, I have successfully installed the nodes of several projects that gave me th
 
 </div>
 
-<h2> Last Words </h2>
 Finally, while it is possible to make financial gains in this sector, the excitement and contribution of being part of the innovations being introduced cannot be ignored. <br>
 It is important to look at a project not just as a coin, but in terms of the potential and **innovations** it offers. With this vision, it is a great privilege for me to take part in the cryptocurrency world and be a part of this exciting journey.
 
