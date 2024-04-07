@@ -1,6 +1,6 @@
 <div align="center">
 
-## who am I?
+## Who Am I?
 
 </div>
 
